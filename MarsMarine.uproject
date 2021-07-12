@@ -13,5 +13,12 @@
 				"Linux"
 			]
 		}
+	],
+	"TargetPlatforms": [
+		"Linux",
+		"LinuxAArch64",
+		"Lumin",
+		"Mac",
+		"Windows"
 	]
 }
